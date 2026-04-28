@@ -1,5 +1,6 @@
 # 💫 About Me:
-Estudiante del área de tecnología, con conocimientos <br>en programación y desarrollo de software.<br>
+Hola mi nombre es Krissia Mendez
+Actualmente soy estudiante del área de tecnología, con conocimientos en programación y desarrollo de software.<br>
 
 
 # 💻 Tech Stack:
