@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante del área de tecnología, con conocimientos en programación y desarrollo de software
+Estudiante del área de tecnología, con conocimientos <br>en programación y desarrollo de software.<br>
 
 
 # 💻 Tech Stack:
@@ -11,6 +11,9 @@ Estudiante del área de tecnología, con conocimientos en programación y desarr
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=krissiamendez67-commits&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=krissiamendez67-commits&icon=0&color=0)](https://visitcount.itsvg.in)
