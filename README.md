@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola mi nombre es Krissia Mendez
+Hola mi nombre es Krissia Mendez <br>
 Actualmente soy estudiante del área de tecnología, con conocimientos en programación y desarrollo de software.<br>
 
 
